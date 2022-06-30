@@ -4,16 +4,16 @@
 ### So what is the Problem ?
 ## The biggest challenge faced by recycling Industry comes with Poor Recycling Quality Due to Lack of Education. Non-recyclable materials being put in the recycling stream (such as liquids or plastic bags) that contaminate recyclable materials. However, recycling the wrong items can actually do more harm than good
 
-## Solution Identification
-#### As a solution to the problem we thought of developing an App
+#### Solution Identification
+# As a solution to the problem we thought of developing an App
 #### That increases the knowledge of an individual as in what items are recyclable and what not .
-#### And a solution to encourage individuals to recycle 
+# And a solution to encourage individuals to recycle 
 
 
 #### Solution Implementation
-### Project Features
-##  The app includes feature to reach out nearby recyclers 
- ## A features to gain knowledge about recyclable products 
+## Project Features
+# The app includes feature to reach out nearby recyclers 
+ # A features to gain knowledge about recyclable products 
 
 ### Why would the people recycle?
 
