@@ -12,13 +12,15 @@
 
 ## Solution Implementation
 * Project Features
-* The app includes feature to reach out nearby recyclers 
- * A features to gain knowledge about recyclable products 
+* The app includes feature to reach out to nearby recyclers, as well as view all other recyclers registered at the app
+* A features to gain knowledge about recyclable products 
+* The app also has a feature of Pick up/Drop off option. The user can either choose to drop off the waste at the Recycling centres themselves or can opt for the pick up,   for which they will be charged a small amount as pick up charges.
+* Upon choosing to drop off, users will be granted with a OTP or barcode, which they can provide at the centre to complete the process.
 
 
 ### Why would the people recycle?
 
-* A feature to earn points on recycling through which customers can avail various discounts that eventually motivates them  to recycle more.
+* The user would earn points on recycling, which they can then use to claim vouchers that eventually would motivate them to recycle more.
 
 
 ### Presentation slides
