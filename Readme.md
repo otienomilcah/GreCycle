@@ -18,3 +18,7 @@
 ### Why would the people recycle?
 
 * A feature to earn points on recycling through which customers can avail various discounts that eventually motivates them  to recycle more.
+
+
+### Presentation slides
+* https://docs.google.com/presentation/d/1ZuSDO5-5xq7VcIfS1qxzjARO2K3O6X5jzgM5sbbleEY/edit?usp=sharing
